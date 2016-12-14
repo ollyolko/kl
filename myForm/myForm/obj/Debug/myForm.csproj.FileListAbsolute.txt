@@ -1,0 +1,10 @@
+C:\Users\ol\Desktop\c#\metanit\2\form\dzForm\myForm\myForm\bin\Debug\myForm.exe.config
+C:\Users\ol\Desktop\c#\metanit\2\form\dzForm\myForm\myForm\bin\Debug\myForm.exe
+C:\Users\ol\Desktop\c#\metanit\2\form\dzForm\myForm\myForm\bin\Debug\myForm.pdb
+C:\Users\ol\Desktop\c#\metanit\2\form\dzForm\myForm\myForm\obj\Debug\myForm.csprojResolveAssemblyReference.cache
+C:\Users\ol\Desktop\c#\metanit\2\form\dzForm\myForm\myForm\obj\Debug\myForm.Properties.Resources.resources
+C:\Users\ol\Desktop\c#\metanit\2\form\dzForm\myForm\myForm\obj\Debug\myForm.csproj.GenerateResource.Cache
+C:\Users\ol\Desktop\c#\metanit\2\form\dzForm\myForm\myForm\obj\Debug\myForm.exe
+C:\Users\ol\Desktop\c#\metanit\2\form\dzForm\myForm\myForm\obj\Debug\myForm.pdb
+C:\Users\ol\Desktop\c#\metanit\2\form\dzForm\myForm\myForm\obj\Debug\myForm.add.resources
+C:\Users\ol\Desktop\c#\metanit\2\form\dzForm\myForm\myForm\obj\Debug\myForm.main.resources
